@@ -1,5 +1,6 @@
 2025-10-30
 
+Added this diary file to record intentions and changes during updates.
 New version of the previously updated accounting system.
 Main differences of the new system:
 - Almost everything was rewritten.
@@ -17,3 +18,4 @@ Intentions for the next update:
   > Define individual parameters for each product.
   > Generate stock reports.
   > Integrate the invoices module with accounting entries.
+- Work with cost centers to generate reports by cost center.
