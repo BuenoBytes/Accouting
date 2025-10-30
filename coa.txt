@@ -1,0 +1,184 @@
+1	ASSETS
+1.1	CURRENT ASSETS
+1.1.1	CASH AND CASH EQUIVALENTS
+1.1.1.01	CURRENT VALUES
+1.1.1.01.01	Cash
+1.1.1.01.02	Bank deposits
+1.1.1.02	SAVINGS
+1.1.2	RESTRICTED CASH AND EQUIVALENTS
+1.1.3	MARKETABLE SECURITIES AT FAIR VALUE
+1.1.4	TRADE AND OTHER RECEIVABLES
+1.1.4.01	Trade receivables
+1.1.4.02	Related parties receivables
+1.1.4.03	Employee loans/advances
+1.1.4.98	Other receivables
+1.1.4.99	Less: Allowance for doubtful acc.
+1.1.5	NET INVESTMENT IN LEASE
+1.1.5.01	Gross investment in lease
+1.1.5.02	Unearned lease income
+1.1.6	INVENTORIES
+1.1.7	PREPAYMENTS
+1.1.7.01	Prepaid rent
+1.1.7.02	Prepaid insurance
+1.1.7.03	Prepaid suppliers
+1.1.8	CONTRACT ASSETS
+1.1.8.01	Unbilled revenue
+1.1.8.02	Conditional receivables
+1.1.9	OTHER CURRENT ASSETS
+1.2	NON‑CURRENT ASSETS
+1.2.1	TRADE AND NOTES RECEIVABLES
+1.2.2	NET INVESTMENT IN LEASE
+1.2.2.01	Gross investment in long-term lease
+1.2.2.02	Unearned lease long-term income
+1.2.3	OTHER INVESTMENTS
+1.2.3.01	Financial assets at fair value
+1.2.3.02	Associates and joint ventures
+1.2.4	DEFERRED TAX ASSETS
+1.2.5	RIGHT-OF-USE ASSETS
+1.2.6	PROPERTY, PLANT AND EQUIPMENT NET
+1.2.6.01	PROPERTY, PLANT AND EQUIPMENT
+1.2.6.01.01	Land
+1.2.6.01.02	Buildings
+1.2.6.01.03	Machinery and equipment
+1.2.6.01.04	Vehicles
+1.2.6.01.05	Furniture and fixtures
+1.2.6.02	ACCUMULATED DEPRECIATION
+1.2.6.02.01	Land
+1.2.6.02.02	Buildings
+1.2.6.02.03	Machinery and equipment
+1.2.6.02.04	Vehicles
+1.2.6.02.05	Furniture and fixtures
+1.2.7	INTANGIBLE ASSETS NET
+1.2.7.01	INTANGIBLE ASSETS
+1.2.7.01.01	Software
+1.2.7.01.02	Licenses and patents
+1.2.7.02	ACCUMULATED AMORTIZATION
+1.2.7.02.01	Software
+1.2.7.02.02	Licenses and patents
+1.2.8	GOODWILL
+1.2.9	OTHER NON-CURRENT ASSETS
+2	LIABILITIES
+2.1	CURRENT LIABILITIES
+2.1.1	TRADE AND OTHER PAYABLES
+2.1.1.01	Trade payables
+2.1.1.02	Related parties payable
+2.1.1.03	Employee payables
+2.1.1.99	Other payables
+2.1.2	BORROWINGS PAYABLE
+2.1.2.01	Bank borrowings
+2.1.2.02	Commercial paper payable
+2.1.2.03	Credit cards
+2.1.3	TAX PAYABLE
+2.1.4	LEASE LIABILITIES
+2.1.5	CONTRACT LIABILITIES
+2.1.5.01	Advance payable
+2.1.5.02	Conditional payable
+2.1.9	OTHER CURRENT LIABILITIES
+2.1.9.01	Dividends payable
+2.2	NON-CURRENT LIABILITIES
+2.2.1	UNTS AND NOTES PAYABLE
+2.2.2	BORROWINGS PAYABLE
+2.2.2.01	Bank borrowings
+2.2.3	LEASE LIABILITIES
+2.2.4	DEFERRED TAX LIABILITIES
+2.2.5	PROVISIONS
+2.2.5.01	Warranty Provisions
+2.2.5.02	Restructuring Provisions
+2.2.9	OTHER NON-CURRENT LIABILITIES
+3	EQUITY
+3.1	SHARES
+3.1.1	SHARE CAPITAL
+3.1.1.01	Common shares
+3.1.1.02	Preferred shares (non-redeemable)
+3.1.2	SHARE PREMIUM
+3.1.3	TREASURY SHARES
+3.4	RESERVES
+3.4.1	OTHER COMPREHENSIVE INCOME (OCI)
+3.4.1.01	Foreign Currency Translation Reserve
+3.4.1.02	Fair Value Reserve (FVOCI)
+3.4.2	Revaluation reserve
+3.5	ACCUMULATED RESULTS
+3.5.1	Retained earnings/losses
+3.6	NON-CONTROLLING INTERESTS
+4	REVENUE
+4.1	OPERATING REVENUE
+4.1.1	SALES OF GOODS
+4.1.1.01	Gross revenue
+4.1.1.02	Less: Discounts
+4.1.1.03	Less: Refunds and allowances
+4.1.2	SERVICES RENDERING
+4.1.2.01	Gross revenue
+4.1.2.02	Less: Discounts
+4.1.2.03	Less: Refunds and allowances
+4.1.3	OPERATING LEASES REVENUE
+4.1.3.01	Gross revenue
+4.1.3.02	Less: Discounts
+4.1.3.03	Less: Refunds and allowances
+4.1.4	FINANCE LEASES REVENUE	2025-08-28
+4.1.4.01	Principal revenue
+4.1.4.02	Less: Variable consideration
+4.1.5	LONG-TERM CONTRACT REVENUE
+4.1.5.01	Recognized at a point-in-time
+4.1.5.02	Recognized over time
+4.1.5.03	Less: Variable consideration
+4.2	OTHER REVENUE
+4.2.1	FINANCE INCOME
+4.2.1.01	Interest from finance leases
+4.2.1.02	Other interest revenue
+4.2.1.03	Dividends revenue
+4.2.2	INCIDENTAL INCOME
+5	EXPENSES
+5.1	OPERATING EXPENSES
+5.1.1	EMPLOYEE COSTS
+5.1.1.01	SALARIES AND BENEFITS
+5.1.1.01.01	Wages
+5.1.1.01.02	Employee benefits
+5.1.1.01.03	Employee supplies
+5.1.1.01.04	Commissions
+5.1.1.02	POST-EMPLOYMENT BENEFITS
+5.1.1.02.01	Pensions
+5.1.1.02.02	Share-based payments
+5.1.1.02.03	Termination benefits
+5.1.2	MATERIALS AND SUPPLIES
+5.1.2.01	Purchases
+5.1.2.02	Change in inventories
+5.1.3	FACILITIES
+5.1.3.01	Rent
+5.1.3.02	Utilities
+5.1.3.03	Maintenance
+5.1.4	TRANSPORT
+5.1.4.01	Fuel
+5.1.4.02	Repairs and maintenance
+5.1.4.03	Tolls and parking
+5.1.4.04	Freight charges
+5.1.5	MARKETING
+5.1.5.01	Digital marketing
+5.1.5.02	Promotional events
+5.1.6	INSURANCE
+5.1.6.01	Property Insurance
+5.1.6.02	Vehicle insurance
+5.1.6.03	Travel insurance
+5.1.7	DEPRECIATION AND AMORTIZATION
+5.1.7.01	PP&E depreciation
+5.1.7.02	Intangible amortization
+5.1.8	IMPAIRMENT LOSSES
+5.1.8.01	Goodwill impairment
+5.1.8.02	PP&E impairmen
+5.1.9	OTHERS
+5.1.9.01	Expected Credit Losses
+5.1.9.02	Professional fees
+5.1.9.03	Communication/Internet
+5.1.9.04	Leisure
+5.2	OTHER EXPENSES
+5.2.1	FINANCE EXPENSE
+5.2.1.01	Interest Expense
+5.2.1.02	Loan Fees
+5.2.1.03	Lease Interest
+5.2.2	INCOME TAX EXPENSE
+5.2.2.01	Current Tax
+5.2.2.02	Deferred Tax
+5.2.9	OTHERS
+5.2.9.01	Foreign Exchange Losses
+5.2.9.02	Donations & Grants
+5.2.9.99	Unidentified expenses
+6	Results acknowledgment

@@ -1,0 +1,19 @@
+2025-10-30
+
+New version of the previously updated accounting system.
+Main differences of the new system:
+- Almost everything was rewritten.
+- Nearly a completely new data structure and management, now focused on JSON files and a specific main entity.
+- Better use of Python’s classes and logic.
+- Optimized memory usage throughout runs.
+
+Somethings weren't tested yet, but I think everything should be working.
+At least installing, accounts manipulation, entries manipulation and Trial Balance generation is workning well.
+
+Intentions for the next update:
+- Work on the invoices module:
+  > Register products and services commercialized by the user and generate commercial invoices.
+  > Manage product stock by recording received and sold invoices.
+  > Define individual parameters for each product.
+  > Generate stock reports.
+  > Integrate the invoices module with accounting entries.

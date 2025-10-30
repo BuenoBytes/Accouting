@@ -2,5 +2,9 @@
 A basic accounting and finnance administration system, a study project.
 
 TO USE IT:
-First create two folders, one named input_output and other named data_bank inside the accounting(1) folder.
-After that you can run the _run.py file and follow the interative instructions on the terminal.
+
+If it is the first run of the program, run the install.py file and follow the terminal commands to set up everything. Fast and simples, as the own system is.
+
+From the second run onwards, all you need to do is run the menu.py file. Everything that the system is capable for will be accessed from here. You can create and edit entities, accounts, cost centers and entries, what is used by the reports module to generate proper reports (currently only a simple Trial Balance with some KPI's).
+
+The Diary.txt file is just a personal diary what I will use to record system changes and intentions thourght updates.
