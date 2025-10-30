@@ -31,7 +31,7 @@ while True:
                     accounts[acc[0]] = root.Account(acc[0], acc[1], '')
             while True:
                 if root.yes_no('Do you desire to add a new cost center? [Y/N]\n'):
-                    root.Cost_Center.new(cost_centers)
+                    root.CostCenter.new(cost_centers)
                 else:
                     break
             entities = {k: entities[k].to_list() for k in entities.keys()}
@@ -49,3 +49,4 @@ while True:
             os.makedirs('input_output')
             os.makedirs('balances')
             print('System installed with success.')
+
