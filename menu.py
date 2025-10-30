@@ -115,8 +115,8 @@ while True:
                             b = joinpath(['balances', f"{year}.json"])
                             dt = datetime(yearint, 12, 31)
                             if datetime.fromisoformat(lock) <  dt:
-                                balances = root.Balance.process(datetime(yearint, 1, 1), dt)
-                                savejson(b, root.Balance, balances)
+                                balances = root.BalanceData.process(datetime(yearint, 1, 1), dt)
+                                savejson(b, root.BalanceData, balances)
                                 criteria['lock'] = dt.isoformat()
                                 with open('_criteria.json', "w", encoding="utf-8") as f:
                                     json.dump(criteria, f, ensure_ascii=False, indent=4)
@@ -135,3 +135,4 @@ while True:
                         f.write(file)
         case _:
             print("Function don't added yet.")
+
